@@ -24,7 +24,7 @@ If a project needs to keep files secure, it should also have a private files buc
 - Go to "Policies" in the sidebar and then "Create Policy"
 - Select "JSON" and then enter this policy, substituting project for your project name
 
-```
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
